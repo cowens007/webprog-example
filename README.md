@@ -1,2 +1,2 @@
 # webprog-example
-Getting stngarted with web programmi
+Getting started with web programming
